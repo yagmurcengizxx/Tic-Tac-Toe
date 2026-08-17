@@ -18,5 +18,5 @@ While the core logic of the board was inspired by the base tutorial, the followi
 The foundational code, basic grid layout, and winning logic for this project were learned from this excellent tutorial:
 * **Video:** [Code Tic Tac Toe in Java](https://www.youtube.com/watch?v=Nc77ymnm8Ss&list=PLnKe36F30Y4Y1XQOqNsL9Fgg_p6nYhcng&index=8) by *Kenny Yip Coding*.
 
-<img width="730" height="787" alt="Ekran görüntüsü 2026-08-17 183337" src="https://github.com/user-attachments/assets/46be89b5-13dd-4f80-89db-94ea146fc764" />
-<img width="733" height="798" alt="Ekran görüntüsü 2026-08-17 183416" src="https://github.com/user-attachments/assets/ee73b7a1-0264-4e35-bbe9-875a43e79d64" />
+<img width="450" height="500" alt="Ekran görüntüsü 2026-08-17 183337" src="https://github.com/user-attachments/assets/46be89b5-13dd-4f80-89db-94ea146fc764" />
+<img width="450" height="500" alt="Ekran görüntüsü 2026-08-17 183416" src="https://github.com/user-attachments/assets/ee73b7a1-0264-4e35-bbe9-875a43e79d64" />
